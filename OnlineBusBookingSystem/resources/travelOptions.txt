@@ -1,0 +1,5 @@
+to1#TUESDAY#Mumbai#Delhi#10:30
+to2#TUESDAY#Mumbai#Delhi#12:30
+to3#TUESDAY#Mumbai#Delhi#14:30
+to4#TUESDAY#Mumbai#Delhi#18:30
+to5#TUESDAY#Mumbai#Delhi#20:30
