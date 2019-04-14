@@ -6,6 +6,9 @@ public class City implements Serializable{
 	public String cityName;
 	public String cityId;
 	
+	public City(){
+	}
+	
 	public City(String name){
 		this.cityName = name;	
 	}

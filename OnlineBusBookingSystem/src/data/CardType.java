@@ -1,5 +1,5 @@
 package data;
 
 public enum CardType {
-	DEBIT, CREDIT;
+	DEBIT, CREDIT, OCTOPUS;
 }
