@@ -10,6 +10,8 @@ public class Booking implements Serializable{
 	public PaymentInfo paymentInfo;
 	public List<Traveller> travellers;
 	public LocalDate travelDate;
+	
+	
 
 	public Booking(String bookingId, TravelOption travelOption, PaymentInfo paymentInfo, List<Traveller> travellers,LocalDate travelDate ){
 		this.bookingId = bookingId;
